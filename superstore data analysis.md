@@ -1,6 +1,6 @@
 # Superstore Data Analysis
 
-**Author:** Jose Luis Pereyra
+**Author:** Jose Luis Pereyra  
 
 **Email:** pereyra.data@gmail.com
 
