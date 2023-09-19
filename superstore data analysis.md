@@ -1,7 +1,4 @@
-# Superstore Data Analysis
-
-Created: September 19, 2023 11:30 AM
-Files & media: https://medium.com/@michelnguegang/superstore-sales-analysis-demonstration-d3c1c1bc907
+# README
 
 **Author:** Jose Luis Pereyra
 **Email:** pereyra.data@gmail.com
