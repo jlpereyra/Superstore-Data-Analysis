@@ -1,8 +1,11 @@
-# README
+# Superstore Data Analysis
 
 **Author:** Jose Luis Pereyra
+
 **Email:** pereyra.data@gmail.com
+
 **Linkedin:** [https://www.linkedin.com/in/joseluispereyra/](https://www.linkedin.com/in/joseluispereyra/)
+
 **Project:** Personal work for a customer
 
 ---
