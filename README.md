@@ -24,7 +24,6 @@ En the following sales performance analysis we are going to identify the pattern
 
 - A clear summary of the business objectives.
 - A full documentation of all the data cleaning, manipulation and analysis.
-- A dashboard with visualizations and main outcomes.
 - Recommendations based on our insights and analysis.
 
 ---
