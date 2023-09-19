@@ -1,4 +1,4 @@
-# Superstore Data Analysis
+# Superstore Business Analysis
 
 **Author:** Jose Luis Pereyra  
 
